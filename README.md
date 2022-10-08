@@ -13,7 +13,7 @@ language and **Haar Cascads** algorithm (most widely used OpenCV's object detect
 Softwares and tools you'll need to run this project sucessfully on your machine.
 
 ```
-Microsoft Visual Studio (any version) and the .xml file provided above.
+Microsoft Visual Studio (Newer version) and the .xml file provided above.
 ```
 
 ### Executing the project
